@@ -84,4 +84,4 @@ https://your-ngrok-url/whatsapp
 ---
 
 ## 👨‍💻 Author
-Vishrutha VC
+VISHRUTHA VC
